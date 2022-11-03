@@ -2,7 +2,6 @@
 This is a clone project of an adjacent sudoku game which I implemented using JavaFX, a Java framework. The flow of the application goes like, the user enter random number between 1-9 in any cell of 9x9 grid. As this is solver application, the application will first verify the user input and if it does't satisfy the rules then it will show a warning message. 
 
 Rules : 
-
   Rule 1 - Each row must contain the numbers from 1 to 9, without repetitions
   Rule 2 - Each column must contain the numbers from 1 to 9, without repetitions
   Rule 3 - Each 3×3 block can only contain numbers from 1 to 9.
